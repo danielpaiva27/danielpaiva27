@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# about me:
+# About me:
 
 <p>Olá! Meu nome é <strong>Daniel Luna</strong>, sou desenvolvedor front-end flertando com ux/ui.</p>
 
