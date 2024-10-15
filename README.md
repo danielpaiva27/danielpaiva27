@@ -2,7 +2,7 @@
 
 # 💫 Sobre Mim:
 
-<p>Olá! Meu nome é <strong>Daniel Luna</strong>, sou desenvolvedor front-end flertando com ux/ui. </p>
+<p>Olá! Meu nome é <strong>Daniel Luna</strong>, sou desenvolvedor front-end flertando com ux/ui(APAIXONADO EM ANGULAR). </p>
 
 
 ![damn](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dpbm9ycHBhOTJiaWM0ZDEycnZ4Z2Y1emk3cDZoejlodWhkZGQ5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aFVW5eiDkSp6Zk2oAE/giphy.gif)
