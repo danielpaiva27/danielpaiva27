@@ -2,7 +2,7 @@
 
 # 💫 Sobre Mim:
 
-❤️ <p><strong>APAIXONADO EM ANGULAR</strong></p>
+❤️<p><strong>APAIXONADO EM ANGULAR</strong></p>
 
 <p>Olá! Meu nome é <strong>Daniel Luna</strong>, sou desenvolvedor front-end flertando com ux/ui.</p>
 
