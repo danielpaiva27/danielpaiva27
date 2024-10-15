@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 Sobre Mim:
-<iframe src="https://giphy.com/embed/1DAX9fpSnG8YU" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-strokes-1DAX9fpSnG8YU">via GIPHY</a></p>
+![damn](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWt2eDQ3Zm5hdjNxbXdsOHRyZGt6bzk1aWkzemh5ZnF2MzNkNWp5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPqOXwEuyV4dO/giphy.gif)
 
 
 
